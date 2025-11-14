@@ -1,1 +1,1 @@
-ExceptionExample
+ThrowsExample

@@ -1,4 +1,4 @@
-class TryCatchFinally {
+public class TryCatchFinally {
     public static void main(String[] args) {
         try {
             int a = 5 / 0; // risky code
